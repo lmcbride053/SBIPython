@@ -10,8 +10,7 @@ try:
     import predict
     import visualize
 except ImportError as e:
-    print(f"Error to import modules: {e}")
-    sys.exit(1)
+    print(f"Warning: Could not import module: {e}")
 
 from Bio.Data.IUPACData import protein_letters_3to1
 
