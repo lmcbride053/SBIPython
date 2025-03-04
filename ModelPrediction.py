@@ -53,7 +53,7 @@ def predict_binding_sites(model, test_data):
         logging.error(f"Prediction error: {e}")
         return None
 
-def main(model_path, test_data_path):
+def main(model_path, test_data_path, output_predictions_path):
     """Main function to load model, predict binding sites, and output predictions."""
     # Load model
     model = load_model(model_path)
@@ -73,6 +73,10 @@ def main(model_path, test_data_path):
 
     if predictions is not None and predictions.size > 0:
         logging.info(f"Predictions: {predictions}")
+        # Save predictions to CSV for visualization script
+        predictions_df = pd.DataFrame(predictions, columns=["binding_site_prediction"])
+        predictions_df.to_csv(output_predictions_path, index=False)
+        logging.info(f"Predictions saved to {output_predictions_path}")
     else:
         logging.error("No predictions made.")
     
@@ -80,7 +84,9 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Predict binding sites using a trained Random Forest model.")
     parser.add_argument("model_path", type=str, help="Path to the trained Random Forest model.")
     parser.add_argument("test_data_path", type=str, help="Path to the test data CSV file containing pocket features.")
+    parser.add_argument("output_predictions_path", type=str, help="Path to save the predicted binding sites.")
 
     args = parser.parse_args()
 
-    main(args.model_path, args.test_data_path)
+    main(args.model_path, args.test_data_path, args.output_predictions_path)
+
