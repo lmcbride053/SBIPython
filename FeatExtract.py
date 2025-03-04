@@ -20,33 +20,13 @@ from typing import List, Dict, Any
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
 
-def load_json_file(input_file: str) -> List[Dict[str, Any]]:
-    """
-    Loads the JSON file containing detected pockets.
-
-    Args:
-        input_file (str): Path to the JSON file.
-
-    Returns:
-        List[Dict[str, Any]]: List of pockets with attributes.
-    """
-    try:
-        with open(input_file, "r") as file:
-            pockets = json.load(file)
-        logging.info(f"Loaded {len(pockets)} pockets from {input_file}")
-        return pockets
-    except Exception as e:
-        logging.error(f"Failed to load JSON file: {e}")
-        return []
-
-
 def extract_features(pockets: List[Dict[str, Any]]) -> List[Dict[str, float]]:
     """
-    Generates a feature vector for each detected pocket.
-
+    Generates a feature vector for each detected pocket, including a binding site label.
+    
     Args:
         pockets (List[Dict[str, Any]]): List of detected binding pockets with attributes.
-
+    
     Returns:
         List[Dict[str, float]]: List of feature vectors as dictionaries.
     """
@@ -54,13 +34,15 @@ def extract_features(pockets: List[Dict[str, Any]]) -> List[Dict[str, float]]:
     
     for pocket in pockets:
         try:
+            # Example feature extraction (replace with actual logic)
             features = {
                 "pocket_id": pocket.get("pocket_id", 0),
                 "num_points": pocket.get("num_points", 0),
                 "depth_mean": pocket.get("depth_mean", 0.0),
-                "center_x": pocket["center"][0] if "center" in pocket else 0.0,
-                "center_y": pocket["center"][1] if "center" in pocket else 0.0,
-                "center_z": pocket["center"][2] if "center" in pocket else 0.0,
+                "center_x": pocket.get("center", [0, 0, 0])[0],
+                "center_y": pocket.get("center", [0, 0, 0])[1],
+                "center_z": pocket.get("center", [0, 0, 0])[2],
+                "binding_site_label": 1 if pocket.get("depth_mean", 0.0) > 0.8 else 0  # Labeling rule
             }
             feature_vectors.append(features)
         except Exception as e:
@@ -73,7 +55,7 @@ def extract_features(pockets: List[Dict[str, Any]]) -> List[Dict[str, float]]:
 def save_features_to_csv(features: List[Dict[str, float]], output_file: str) -> None:
     """
     Saves feature vectors to a CSV file.
-
+    
     Args:
         features (List[Dict[str, float]]): List of feature vectors.
         output_file (str): Path to the output CSV file.
@@ -96,15 +78,15 @@ def save_features_to_csv(features: List[Dict[str, float]], output_file: str) -> 
 
 
 if __name__ == "__main__":
-    # Load detected pockets from JSON
-    input_json_file = "outputfile3.json" 
-    pockets = load_json_file(input_json_file)
+    # Example pocket data (Replace this with actual data from pocket_detection.py)
+    with open("outputfile3.json", "r") as f:
+        pockets = json.load(f)  # Assuming this is how the pockets data is loaded
 
     # Extract features
     features = extract_features(pockets)
 
     # Save to CSV
-    output_csv_file = "pocket_features.csv"
-    save_features_to_csv(features, output_csv_file)
+    output_file = "pocket_features.csv"
+    save_features_to_csv(features, output_file)
 
-    print(f"Feature extraction complete. Check '{output_csv_file}'.")
+    print(f"Feature extraction complete. Check '{output_file}'.")
