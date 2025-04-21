@@ -32,7 +32,7 @@ To use the program, follow these next steps:
 
 3. Run the program with the following command-line arguments:
 <pre>python main.py [PATH to PDB FILE] [PDB Code] 
-example: examples/pdb_examples/4q21.pdb 4Q21 </pre>
+example: python main.py examples/pdb_examples/4q21.pdb 4Q21 </pre>
 
 # Program Structure
 * data/:
@@ -146,3 +146,9 @@ So now we have the output files in the /results/3PTB/ folder:
     pockets.pml         # PyMOL script to visualize pocket centers
 
 When viewing the results in PyMOL, we can see that there were 6 potential ligand binding sites identified
+
+
+
+
+
+
