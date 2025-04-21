@@ -37,9 +37,9 @@ def run_step(script_name, args=[]):
     print(f"🔹 Running {script_name} with args: {' '.join(args)}")
     result = subprocess.run(['python', script_path] + args)
     if result.returncode != 0:
-        print(f"❌ Error while running {script_name}")
+        print(f" Error while running {script_name}")
         sys.exit(result.returncode)
-    print(f"✅ {script_name} completed.\n")
+    print(f" {script_name} completed.\n")
 
 def main():
     if len(sys.argv) != 3:
