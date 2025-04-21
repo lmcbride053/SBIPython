@@ -40,7 +40,7 @@ The program will generate the following outputs:
 
 * parsed_json: pre process file and extracts relevant atomic coordinates for surface analysis.
 
-* surface_json and surface_plot: Filters surface points by depth and clusters them using DBSCAN
+* surface_json and surface_plot: Filters surface points by depth and clusters them using DBSCAN, it contains detailed cluster data, including coordinates and geometric statistics.
 
 * pockets_json: Calculates point-wise geometric properties: depth from convex hull, curvature, and surface coordinates.
 
