@@ -78,9 +78,9 @@ This script generates a geometry-based pipeline for predicting and visualizing l
 - PyMol </pre>
 
 ## Usage
-<pre>pymol
-load protein.pdb
-@output_pockets_pymol.pml </pre>
+Run the following command
+<pre>pymol results/[FILE.pml] examples/pdb_examples/[PROTEIN.pdb]
+Example: pymol results/1a52_example_results.pml examples/pdb_examples/1a52.pdb </pre>
 
 # Sample Run 
 Let's test this program on a protein: 3PTB (Bovine Trypsin + Trypsin Inhibitor) using the 3ptb.pdb file. This was previously done by the creators and the output files can be viewed in the examples folder, but right now let's pretend that you are running it as intended where the pdb file is in the data folder.
