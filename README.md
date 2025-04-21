@@ -86,20 +86,18 @@ load protein.pdb
 Let's test this program on a protein: 3PTB (Bovine Trypsin + Trypsin Inhibitor) using the 3ptb.pdb file. This was previously done by the creators and the output files can be viewed in the examples folder, but right now let's pretend that you are running it as intended where the pdb file is in the data folder.
 
 To run the program:
-<pre> python data/3ptb.pdb 3PTB 
-  <pre>
+<pre>python data/3ptb.pdb 3PTB <pre>
 
 Then the pipeline runs and the progress of each script is printed into the terminal:
-<pre> PDBparser.py:
+<pre>PDBparser.py:
 Running PDBParser.py with args: data/3ptb.pdb ~/results/3PTB/parsed.json
 Parsed 1629 atoms.
 Extracted 220 unique residues.
 Computed solvent accessibility for all atoms.
 Data saved to ~/3PTB/parsed.json
-PDBParser.py completed. 
-<pre>
+PDBParser.py completed. <pre>
 
-<pre> SurfAnal.py:
+<pre>SurfAnal.py:
 Running SurfAnal.py with args: ~/results/3PTB/parsed.json ~/results/3PTB/surface.json ~/results/3PTB/surface.png
 Total atoms: 1629
 Accessible atoms count: 27
@@ -109,10 +107,9 @@ Estimated pocket depth.
 Computed hydrophobicity scores.
 Surface visualization saved to ~/results/3PTB/surface.png
 Surface data saved to ~/results/3PTB/surface.json
-SurfAnal.py completed. 
-<pre>
+SurfAnal.py completed. <pre>
 
-<pre> PockDet.py:
+<pre>PockDet.py:
 Running PockDet.py with args: ~/results/3PTB/surface.json ~/results/3PTB/pockets.json
 Depth Min: 0.0016083662893325856, Max: 0.990898019338134, Mean: 0.46915439949616383
 Total surface points: 126
@@ -125,22 +122,19 @@ Detected 11 potential pockets.
 Filtered to 6 pockets after applying constraints.
 Pockets saved to ~/results/3PTB/pockets.pdb for visualization.
 Pockets saved to ~/results/3PTB/pockets.json
-PockDet.py completed. 
-<pre>
+PockDet.py completed. <pre>
   
-<pre> Scoring.py:
+<pre>Scoring.py:
 Running Scoring.py with args: ~/results/3PTB/pockets.json ~/results/3PTB/scored.json
 Scored pockets written to ~/results/3PTB/scored.json
-Scoring.py completed. 
-  <pre>
+Scoring.py completed. <pre>
 
-<pre> Visualize.py:
+<pre>Visualize.py:
 Running Visualize.py with args: ~/results/3PTB/scored.json ~/results/3PTB/pockets.pml
 [✔] PyMOL script saved to: ~/results/3PTB/pockets.pml
-Visualize.py completed. 
-  <pre>
+Visualize.py completed. <pre>
 
-<pre> All results saved to: ~/results/3PTB/ </pre>
+<pre>All results saved to: ~/results/3PTB/ </pre>
 
 So now we have the output files in the /results/3PTB/ folder:
     parsed.json         # Parsed atom and residue data
