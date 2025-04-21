@@ -1,0 +1,62 @@
+[
+    {
+        "pocket_id": 2,
+        "num_points": 5,
+        "center": [
+            18.978,
+            18.583,
+            31.083999999999996
+        ],
+        "depth_mean": 0.7276633966886645,
+        "volume": 5,
+        "depth": 0.7276633966886645,
+        "enclosure": 0.01,
+        "curvature": -0.2,
+        "score": 1
+    },
+    {
+        "pocket_id": 3,
+        "num_points": 8,
+        "center": [
+            8.419,
+            11.240250000000001,
+            -9.572499999999998
+        ],
+        "depth_mean": 0.7560908543416014,
+        "volume": 8,
+        "depth": 0.7560908543416014,
+        "enclosure": 0.016,
+        "curvature": -0.2,
+        "score": 1
+    },
+    {
+        "pocket_id": 8,
+        "num_points": 10,
+        "center": [
+            18.9935,
+            34.1128,
+            25.197599999999998
+        ],
+        "depth_mean": 0.8242932509214917,
+        "volume": 10,
+        "depth": 0.8242932509214917,
+        "enclosure": 0.02,
+        "curvature": -0.2,
+        "score": 1
+    },
+    {
+        "pocket_id": 14,
+        "num_points": 5,
+        "center": [
+            4.648,
+            24.244,
+            3.2689999999999997
+        ],
+        "depth_mean": 0.770910452530878,
+        "volume": 5,
+        "depth": 0.770910452530878,
+        "enclosure": 0.01,
+        "curvature": -0.2,
+        "score": 1
+    }
+]

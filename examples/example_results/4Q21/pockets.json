@@ -1,0 +1,16 @@
+[
+    {
+        "pocket_id": 3,
+        "num_points": 5,
+        "center": [
+            70.41,
+            89.823,
+            34.823
+        ],
+        "depth_mean": 0.7895703233466762,
+        "volume": 5,
+        "depth": 0.7895703233466762,
+        "enclosure": 0.01,
+        "curvature": -0.2
+    }
+]

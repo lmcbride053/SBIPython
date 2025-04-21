@@ -1,0 +1,107 @@
+[
+    {
+        "pocket_id": 0,
+        "num_points": 5,
+        "center": [
+            15.299000000000001,
+            58.513999999999996,
+            32.616
+        ],
+        "depth_mean": 0.7869303209772952,
+        "volume": 5,
+        "depth": 0.7869303209772952,
+        "enclosure": 0.01,
+        "curvature": -0.2,
+        "score": 1
+    },
+    {
+        "pocket_id": 3,
+        "num_points": 6,
+        "center": [
+            17.837,
+            51.806000000000004,
+            13.539666666666667
+        ],
+        "depth_mean": 0.7495512727073864,
+        "volume": 6,
+        "depth": 0.7495512727073864,
+        "enclosure": 0.012,
+        "curvature": -0.2,
+        "score": 1
+    },
+    {
+        "pocket_id": 6,
+        "num_points": 6,
+        "center": [
+            -6.084,
+            27.422,
+            38.573
+        ],
+        "depth_mean": 0.7585375978059462,
+        "volume": 6,
+        "depth": 0.7585375978059462,
+        "enclosure": 0.012,
+        "curvature": -0.2,
+        "score": 1
+    },
+    {
+        "pocket_id": 7,
+        "num_points": 9,
+        "center": [
+            -36.69355555555555,
+            72.17988888888888,
+            5.81311111111111
+        ],
+        "depth_mean": 0.7506628567396648,
+        "volume": 9,
+        "depth": 0.7506628567396648,
+        "enclosure": 0.018,
+        "curvature": -0.2,
+        "score": 1
+    },
+    {
+        "pocket_id": 10,
+        "num_points": 5,
+        "center": [
+            -14.800999999999998,
+            24.311,
+            41.567
+        ],
+        "depth_mean": 0.795637494612711,
+        "volume": 5,
+        "depth": 0.795637494612711,
+        "enclosure": 0.01,
+        "curvature": -0.2,
+        "score": 1
+    },
+    {
+        "pocket_id": 11,
+        "num_points": 7,
+        "center": [
+            -8.745857142857144,
+            33.96042857142857,
+            6.575285714285714
+        ],
+        "depth_mean": 0.8194393014442204,
+        "volume": 7,
+        "depth": 0.8194393014442204,
+        "enclosure": 0.014,
+        "curvature": -0.2,
+        "score": 1
+    },
+    {
+        "pocket_id": 12,
+        "num_points": 5,
+        "center": [
+            -26.613,
+            74.011,
+            -2.172
+        ],
+        "depth_mean": 0.8799033470447666,
+        "volume": 5,
+        "depth": 0.8799033470447666,
+        "enclosure": 0.01,
+        "curvature": -0.2,
+        "score": 1
+    }
+]

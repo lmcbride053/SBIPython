@@ -1,0 +1,4406 @@
+{
+    "atoms": [
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                18.935,
+                34.195,
+                25.617
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                19.13,
+                33.921,
+                24.219
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                19.961,
+                32.668,
+                24.1
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                19.36,
+                31.583,
+                24.852
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                20.172,
+                32.122,
+                22.694
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                21.35,
+                31.325,
+                22.681
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                18.948,
+                31.223,
+                22.647
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                19.231,
+                30.482,
+                23.944
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                18.07,
+                29.661,
+                24.38
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                18.224,
+                28.454,
+                25.015
+            ]
+        },
+        {
+            "atom_name": "O2",
+            "coordinates": [
+                19.36,
+                28.014,
+                25.214
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                17.143,
+                27.761,
+                25.377
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                15.917,
+                28.226,
+                25.12
+            ]
+        },
+        {
+            "atom_name": "N4",
+            "coordinates": [
+                14.828,
+                27.477,
+                25.444
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                15.719,
+                29.442,
+                24.471
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                16.843,
+                30.171,
+                24.101
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                22.409,
+                31.286,
+                21.483
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                23.536,
+                32.157,
+                21.851
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                21.822,
+                31.459,
+                20.139
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                22.84,
+                29.751,
+                21.498
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                23.543,
+                29.175,
+                22.594
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                23.494,
+                27.709,
+                22.279
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                22.193,
+                27.252,
+                22.674
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                23.693,
+                27.325,
+                20.807
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                24.723,
+                26.32,
+                20.653
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                22.273,
+                26.885,
+                20.416
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                21.721,
+                26.304,
+                21.716
+            ]
+        },
+        {
+            "atom_name": "N9",
+            "coordinates": [
+                20.237,
+                26.47,
+                21.78
+            ]
+        },
+        {
+            "atom_name": "C8",
+            "coordinates": [
+                19.526,
+                27.584,
+                21.429
+            ]
+        },
+        {
+            "atom_name": "N7",
+            "coordinates": [
+                18.207,
+                27.455,
+                21.636
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                18.083,
+                26.212,
+                22.142
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                16.904,
+                25.525,
+                22.545
+            ]
+        },
+        {
+            "atom_name": "O6",
+            "coordinates": [
+                15.739,
+                25.916,
+                22.518
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                17.197,
+                24.279,
+                23.037
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                18.434,
+                23.717,
+                23.155
+            ]
+        },
+        {
+            "atom_name": "N2",
+            "coordinates": [
+                18.508,
+                22.456,
+                23.668
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                19.537,
+                24.36,
+                22.77
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                19.29,
+                25.594,
+                22.274
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                25.064,
+                25.621,
+                19.252
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                26.506,
+                25.316,
+                19.22
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                24.559,
+                26.412,
+                18.115
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                24.26,
+                24.246,
+                19.327
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                24.584,
+                23.285,
+                20.335
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                23.523,
+                22.233,
+                20.245
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                22.256,
+                22.844,
+                20.453
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                23.424,
+                21.557,
+                18.903
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                24.121,
+                20.309,
+                18.928
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                21.93,
+                21.406,
+                18.661
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                21.278,
+                21.966,
+                19.909
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                20.196,
+                22.889,
+                19.521
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                18.909,
+                22.584,
+                19.816
+            ]
+        },
+        {
+            "atom_name": "O2",
+            "coordinates": [
+                18.685,
+                21.512,
+                20.382
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                17.935,
+                23.447,
+                19.502
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                18.217,
+                24.603,
+                18.897
+            ]
+        },
+        {
+            "atom_name": "N4",
+            "coordinates": [
+                17.221,
+                25.499,
+                18.629
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                19.526,
+                24.945,
+                18.571
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                20.537,
+                24.048,
+                18.899
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                24.249,
+                19.412,
+                17.617
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                25.42,
+                18.535,
+                17.765
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                24.208,
+                20.296,
+                16.44
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                22.931,
+                18.537,
+                17.67
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                22.714,
+                17.625,
+                18.753
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                21.393,
+                16.96,
+                18.505
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                20.353,
+                17.952,
+                18.496
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                21.264,
+                16.229,
+                17.176
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                20.284,
+                15.214,
+                17.238
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                20.793,
+                17.368,
+                16.288
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                19.716,
+                17.901,
+                17.218
+            ]
+        },
+        {
+            "atom_name": "N9",
+            "coordinates": [
+                19.305,
+                19.281,
+                16.869
+            ]
+        },
+        {
+            "atom_name": "C8",
+            "coordinates": [
+                20.017,
+                20.263,
+                16.232
+            ]
+        },
+        {
+            "atom_name": "N7",
+            "coordinates": [
+                19.313,
+                21.394,
+                16.077
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                18.121,
+                21.1,
+                16.635
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                16.952,
+                21.904,
+                16.749
+            ]
+        },
+        {
+            "atom_name": "O6",
+            "coordinates": [
+                16.769,
+                23.057,
+                16.368
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                15.933,
+                21.214,
+                17.352
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                15.972,
+                19.93,
+                17.816
+            ]
+        },
+        {
+            "atom_name": "N2",
+            "coordinates": [
+                14.831,
+                19.416,
+                18.353
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                17.068,
+                19.179,
+                17.717
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                18.084,
+                19.825,
+                17.121
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                20.356,
+                13.969,
+                16.245
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                21.116,
+                12.891,
+                16.892
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                20.837,
+                14.423,
+                14.91
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                18.81,
+                13.581,
+                16.161
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                18.015,
+                13.569,
+                17.362
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                16.672,
+                14.088,
+                16.957
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                16.842,
+                15.447,
+                16.561
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                16.019,
+                13.393,
+                15.764
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                14.762,
+                12.796,
+                16.12
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                15.952,
+                14.498,
+                14.696
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                15.851,
+                15.732,
+                15.569
+            ]
+        },
+        {
+            "atom_name": "N9",
+            "coordinates": [
+                16.391,
+                16.916,
+                14.867
+            ]
+        },
+        {
+            "atom_name": "C8",
+            "coordinates": [
+                17.658,
+                17.103,
+                14.382
+            ]
+        },
+        {
+            "atom_name": "N7",
+            "coordinates": [
+                17.863,
+                18.346,
+                13.913
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                16.673,
+                18.953,
+                14.098
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                16.23,
+                20.279,
+                13.819
+            ]
+        },
+        {
+            "atom_name": "N6",
+            "coordinates": [
+                17.045,
+                21.222,
+                13.268
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                14.966,
+                20.578,
+                14.118
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                14.178,
+                19.652,
+                14.669
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                14.463,
+                18.392,
+                14.984
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                15.75,
+                18.11,
+                14.661
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                13.866,
+                12.006,
+                15.063
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                13.028,
+                11.039,
+                15.8
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                14.715,
+                11.499,
+                13.968
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                12.879,
+                13.111,
+                14.48
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                11.802,
+                13.597,
+                15.29
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                11.111,
+                14.603,
+                14.435
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                12.152,
+                15.46,
+                13.962
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                10.417,
+                14.07,
+                13.187
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                9.007,
+                14.369,
+                13.181
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                11.24,
+                14.692,
+                12.061
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                11.699,
+                15.974,
+                12.719
+            ]
+        },
+        {
+            "atom_name": "N9",
+            "coordinates": [
+                12.918,
+                16.526,
+                12.078
+            ]
+        },
+        {
+            "atom_name": "C8",
+            "coordinates": [
+                14.115,
+                15.899,
+                11.868
+            ]
+        },
+        {
+            "atom_name": "N7",
+            "coordinates": [
+                15.049,
+                16.714,
+                11.356
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                14.416,
+                17.901,
+                11.246
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                14.873,
+                19.187,
+                10.815
+            ]
+        },
+        {
+            "atom_name": "N6",
+            "coordinates": [
+                16.161,
+                19.418,
+                10.427
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                13.999,
+                20.191,
+                10.852
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                12.753,
+                19.962,
+                11.272
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                12.21,
+                18.824,
+                11.698
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                13.116,
+                17.823,
+                11.657
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                8.081,
+                14.05,
+                11.915
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                6.668,
+                13.96,
+                12.342
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                8.6,
+                12.894,
+                11.137
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                8.239,
+                15.387,
+                11.076
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                7.907,
+                16.635,
+                11.686
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                8.162,
+                17.628,
+                10.598
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                9.543,
+                17.58,
+                10.279
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                7.461,
+                17.284,
+                9.296
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                6.251,
+                18.034,
+                9.162
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                8.532,
+                17.527,
+                8.223
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                9.644,
+                18.209,
+                9.019
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                11.021,
+                17.903,
+                8.565
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                11.822,
+                18.923,
+                8.176
+            ]
+        },
+        {
+            "atom_name": "O2",
+            "coordinates": [
+                11.383,
+                20.077,
+                8.143
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                13.119,
+                18.641,
+                7.852
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                13.633,
+                17.372,
+                7.882
+            ]
+        },
+        {
+            "atom_name": "O4",
+            "coordinates": [
+                14.83,
+                17.222,
+                7.619
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                12.781,
+                16.325,
+                8.235
+            ]
+        },
+        {
+            "atom_name": "C7",
+            "coordinates": [
+                13.269,
+                14.902,
+                8.236
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                11.465,
+                16.616,
+                8.594
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                5.384,
+                17.99,
+                7.824
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                4.025,
+                18.444,
+                8.18
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                5.458,
+                16.668,
+                7.16
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                6.086,
+                19.118,
+                6.927
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                6.146,
+                20.478,
+                7.418
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                6.995,
+                21.229,
+                6.438
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                8.188,
+                20.458,
+                6.284
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                6.418,
+                21.332,
+                5.029
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                5.967,
+                22.667,
+                4.696
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                7.513,
+                20.718,
+                4.139
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                8.736,
+                20.855,
+                5.034
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                9.823,
+                19.876,
+                4.759
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                11.086,
+                20.316,
+                4.494
+            ]
+        },
+        {
+            "atom_name": "O2",
+            "coordinates": [
+                11.324,
+                21.516,
+                4.389
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                12.094,
+                19.403,
+                4.412
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                11.876,
+                18.06,
+                4.551
+            ]
+        },
+        {
+            "atom_name": "O4",
+            "coordinates": [
+                12.858,
+                17.317,
+                4.503
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                10.569,
+                17.611,
+                4.765
+            ]
+        },
+        {
+            "atom_name": "C7",
+            "coordinates": [
+                10.261,
+                16.14,
+                4.896
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                9.545,
+                18.548,
+                4.904
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                5.531,
+                23.071,
+                3.209
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                4.648,
+                24.244,
+                3.269
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                5.01,
+                21.905,
+                2.47
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                6.926,
+                23.547,
+                2.611
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                7.636,
+                24.627,
+                3.249
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                8.897,
+                24.853,
+                2.457
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                9.638,
+                23.627,
+                2.448
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                8.717,
+                25.24,
+                0.998
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                9.47,
+                26.414,
+                0.667
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                9.126,
+                23.965,
+                0.253
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                10.241,
+                23.483,
+                1.157
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                10.524,
+                22.022,
+                1.015
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                11.814,
+                21.603,
+                0.84
+            ]
+        },
+        {
+            "atom_name": "O2",
+            "coordinates": [
+                12.691,
+                22.447,
+                0.67
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                12.106,
+                20.297,
+                0.873
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                11.141,
+                19.395,
+                1.046
+            ]
+        },
+        {
+            "atom_name": "N4",
+            "coordinates": [
+                11.461,
+                18.075,
+                1.089
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                9.803,
+                19.775,
+                1.177
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                9.499,
+                21.133,
+                1.167
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                9.055,
+                27.333,
+                -0.581
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                9.496,
+                28.717,
+                -0.258
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                7.632,
+                27.106,
+                -0.947
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                9.954,
+                26.765,
+                -1.771
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                11.382,
+                26.94,
+                -1.72
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                11.972,
+                26.09,
+                -2.802
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                11.802,
+                24.724,
+                -2.404
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                11.327,
+                26.178,
+                -4.188
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                12.311,
+                26.096,
+                -5.214
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                10.414,
+                24.962,
+                -4.186
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                11.429,
+                24.028,
+                -3.587
+            ]
+        },
+        {
+            "atom_name": "N9",
+            "coordinates": [
+                10.89,
+                22.713,
+                -3.2
+            ]
+        },
+        {
+            "atom_name": "C8",
+            "coordinates": [
+                9.616,
+                22.315,
+                -2.91
+            ]
+        },
+        {
+            "atom_name": "N7",
+            "coordinates": [
+                9.541,
+                21.009,
+                -2.613
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                10.818,
+                20.588,
+                -2.718
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                11.376,
+                19.292,
+                -2.511
+            ]
+        },
+        {
+            "atom_name": "O6",
+            "coordinates": [
+                10.813,
+                18.252,
+                -2.179
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                12.729,
+                19.299,
+                -2.72
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                13.498,
+                20.365,
+                -3.082
+            ]
+        },
+        {
+            "atom_name": "N2",
+            "coordinates": [
+                14.834,
+                20.169,
+                -3.237
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                12.982,
+                21.573,
+                -3.267
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                11.656,
+                21.601,
+                -3.061
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                12.763,
+                27.421,
+                -5.98
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                12.796,
+                28.572,
+                -5.049
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                11.886,
+                27.542,
+                -7.164
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                14.272,
+                27.086,
+                -6.366
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                15.275,
+                27.108,
+                -5.318
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                16.222,
+                25.946,
+                -5.51
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                15.443,
+                24.754,
+                -5.397
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                16.942,
+                25.827,
+                -6.848
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                18.34,
+                25.511,
+                -6.701
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                16.118,
+                24.767,
+                -7.578
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                15.856,
+                23.836,
+                -6.414
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                14.672,
+                22.975,
+                -6.637
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                14.802,
+                21.628,
+                -6.529
+            ]
+        },
+        {
+            "atom_name": "O2",
+            "coordinates": [
+                15.924,
+                21.178,
+                -6.314
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                13.723,
+                20.842,
+                -6.627
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                12.515,
+                21.373,
+                -6.836
+            ]
+        },
+        {
+            "atom_name": "N4",
+            "coordinates": [
+                11.41,
+                20.574,
+                -6.872
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                12.348,
+                22.744,
+                -6.978
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                13.47,
+                23.558,
+                -6.869
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                19.331,
+                25.774,
+                -7.925
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                20.704,
+                25.976,
+                -7.408
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                18.763,
+                26.851,
+                -8.758
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                19.302,
+                24.412,
+                -8.763
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                20.109,
+                23.284,
+                -8.359
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                19.748,
+                22.167,
+                -9.299
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                18.35,
+                21.969,
+                -9.139
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                19.921,
+                22.404,
+                -10.815
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                20.985,
+                21.635,
+                -11.401
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                18.535,
+                22.062,
+                -11.381
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                17.965,
+                21.2,
+                -10.269
+            ]
+        },
+        {
+            "atom_name": "N9",
+            "coordinates": [
+                16.493,
+                21.22,
+                -10.265
+            ]
+        },
+        {
+            "atom_name": "C8",
+            "coordinates": [
+                15.663,
+                22.289,
+                -10.478
+            ]
+        },
+        {
+            "atom_name": "N7",
+            "coordinates": [
+                14.368,
+                21.958,
+                -10.39
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                14.388,
+                20.64,
+                -10.102
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                13.301,
+                19.742,
+                -9.856
+            ]
+        },
+        {
+            "atom_name": "O6",
+            "coordinates": [
+                12.091,
+                19.967,
+                -9.857
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                13.75,
+                18.466,
+                -9.625
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                15.042,
+                18.043,
+                -9.605
+            ]
+        },
+        {
+            "atom_name": "N2",
+            "coordinates": [
+                15.259,
+                16.717,
+                -9.406
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                16.061,
+                18.885,
+                -9.792
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                15.66,
+                20.156,
+                -10.027
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                7.458,
+                11.884,
+                -9.07
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                8.252,
+                10.968,
+                -9.854
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                9.714,
+                11.141,
+                -9.512
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                10.144,
+                12.455,
+                -9.908
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                10.103,
+                10.989,
+                -8.055
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                11.293,
+                10.221,
+                -7.904
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                10.254,
+                12.437,
+                -7.607
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                10.896,
+                13.044,
+                -8.837
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                10.575,
+                14.487,
+                -8.944
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                11.559,
+                15.43,
+                -9.006
+            ]
+        },
+        {
+            "atom_name": "O2",
+            "coordinates": [
+                12.725,
+                15.066,
+                -8.932
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                11.246,
+                16.714,
+                -9.193
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                9.98,
+                17.088,
+                -9.334
+            ]
+        },
+        {
+            "atom_name": "N4",
+            "coordinates": [
+                9.698,
+                18.395,
+                -9.589
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                8.939,
+                16.162,
+                -9.274
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                9.265,
+                14.824,
+                -9.08
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                11.602,
+                9.51,
+                -6.502
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                11.666,
+                8.032,
+                -6.664
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                10.644,
+                10.01,
+                -5.494
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                13.051,
+                10.094,
+                -6.177
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                14.1,
+                10.021,
+                -7.156
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                15.113,
+                10.992,
+                -6.657
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                14.556,
+                12.3,
+                -6.755
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                15.445,
+                10.806,
+                -5.189
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                16.836,
+                10.56,
+                -5.013
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                14.937,
+                12.1,
+                -4.529
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                15.058,
+                13.086,
+                -5.671
+            ]
+        },
+        {
+            "atom_name": "N9",
+            "coordinates": [
+                14.036,
+                14.14,
+                -5.536
+            ]
+        },
+        {
+            "atom_name": "C8",
+            "coordinates": [
+                12.71,
+                13.957,
+                -5.259
+            ]
+        },
+        {
+            "atom_name": "N7",
+            "coordinates": [
+                12.016,
+                15.103,
+                -5.269
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                12.937,
+                16.041,
+                -5.558
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                12.761,
+                17.451,
+                -5.71
+            ]
+        },
+        {
+            "atom_name": "O6",
+            "coordinates": [
+                11.723,
+                18.111,
+                -5.63
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                13.952,
+                18.079,
+                -5.973
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                15.171,
+                17.485,
+                -6.107
+            ]
+        },
+        {
+            "atom_name": "N2",
+            "coordinates": [
+                16.244,
+                18.292,
+                -6.325
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                15.329,
+                16.161,
+                -5.986
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                14.179,
+                15.499,
+                -5.721
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                17.478,
+                10.38,
+                -3.569
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                18.665,
+                9.516,
+                -3.729
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                16.427,
+                9.94,
+                -2.633
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                17.957,
+                11.865,
+                -3.208
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                18.963,
+                12.531,
+                -3.996
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                18.936,
+                13.958,
+                -3.536
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                17.592,
+                14.409,
+                -3.622
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                19.253,
+                14.139,
+                -2.066
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                20.659,
+                14.219,
+                -1.858
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                18.52,
+                15.417,
+                -1.728
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                17.545,
+                15.602,
+                -2.872
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                16.145,
+                15.696,
+                -2.428
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                15.507,
+                16.886,
+                -2.558
+            ]
+        },
+        {
+            "atom_name": "O2",
+            "coordinates": [
+                16.162,
+                17.846,
+                -2.957
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                14.209,
+                16.983,
+                -2.264
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                13.536,
+                15.919,
+                -1.825
+            ]
+        },
+        {
+            "atom_name": "N4",
+            "coordinates": [
+                12.205,
+                16.017,
+                -1.553
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                14.164,
+                14.689,
+                -1.652
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                15.509,
+                14.584,
+                -1.979
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                21.304,
+                14.529,
+                -0.436
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                22.696,
+                14.087,
+                -0.524
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                20.488,
+                13.954,
+                0.65
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                21.306,
+                16.117,
+                -0.363
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                22.177,
+                16.876,
+                -1.212
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                21.739,
+                18.292,
+                -1.021
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                20.305,
+                18.225,
+                -1.048
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                22.101,
+                18.959,
+                0.293
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                22.592,
+                20.293,
+                0.097
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                20.82,
+                18.829,
+                1.121
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                19.765,
+                18.985,
+                0.046
+            ]
+        },
+        {
+            "atom_name": "N9",
+            "coordinates": [
+                18.513,
+                18.299,
+                0.468
+            ]
+        },
+        {
+            "atom_name": "C8",
+            "coordinates": [
+                18.363,
+                17.062,
+                1.039
+            ]
+        },
+        {
+            "atom_name": "N7",
+            "coordinates": [
+                17.08,
+                16.744,
+                1.281
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                16.4,
+                17.832,
+                0.868
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                14.996,
+                18.09,
+                0.882
+            ]
+        },
+        {
+            "atom_name": "O6",
+            "coordinates": [
+                14.082,
+                17.378,
+                1.28
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                14.712,
+                19.349,
+                0.418
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                15.606,
+                20.268,
+                -0.027
+            ]
+        },
+        {
+            "atom_name": "N2",
+            "coordinates": [
+                15.134,
+                21.493,
+                -0.382
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                16.912,
+                20.017,
+                -0.072
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                17.236,
+                18.794,
+                0.384
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                22.904,
+                21.238,
+                1.339
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                23.994,
+                22.183,
+                1.025
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                23.104,
+                20.39,
+                2.538
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                21.577,
+                22.107,
+                1.39
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                21.216,
+                22.833,
+                0.2
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                20.101,
+                23.788,
+                0.484
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                18.913,
+                23.054,
+                0.816
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                20.347,
+                24.743,
+                1.633
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                19.732,
+                26.01,
+                1.411
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                19.752,
+                23.945,
+                2.791
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                18.497,
+                23.393,
+                2.145
+            ]
+        },
+        {
+            "atom_name": "N9",
+            "coordinates": [
+                18.079,
+                22.095,
+                2.758
+            ]
+        },
+        {
+            "atom_name": "C8",
+            "coordinates": [
+                18.847,
+                21.02,
+                3.133
+            ]
+        },
+        {
+            "atom_name": "N7",
+            "coordinates": [
+                18.114,
+                19.984,
+                3.584
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                16.842,
+                20.424,
+                3.488
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                15.577,
+                19.817,
+                3.786
+            ]
+        },
+        {
+            "atom_name": "N6",
+            "coordinates": [
+                15.448,
+                18.537,
+                4.242
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                14.482,
+                20.557,
+                3.593
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                14.597,
+                21.801,
+                3.118
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                15.7,
+                22.472,
+                2.783
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                16.791,
+                21.706,
+                3.002
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                19.803,
+                27.141,
+                2.526
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                19.796,
+                28.478,
+                1.888
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                20.953,
+                26.858,
+                3.426
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                18.396,
+                26.939,
+                3.241
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                17.203,
+                27.028,
+                2.452
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                16.035,
+                26.958,
+                3.388
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                15.856,
+                25.612,
+                3.85
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                16.101,
+                27.861,
+                4.615
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                14.89,
+                28.608,
+                4.757
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                16.368,
+                26.844,
+                5.724
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                15.561,
+                25.655,
+                5.243
+            ]
+        },
+        {
+            "atom_name": "N9",
+            "coordinates": [
+                16.104,
+                24.373,
+                5.755
+            ]
+        },
+        {
+            "atom_name": "C8",
+            "coordinates": [
+                17.411,
+                23.967,
+                5.83
+            ]
+        },
+        {
+            "atom_name": "N7",
+            "coordinates": [
+                17.539,
+                22.706,
+                6.276
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                16.266,
+                22.309,
+                6.48
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                15.715,
+                21.073,
+                6.933
+            ]
+        },
+        {
+            "atom_name": "N6",
+            "coordinates": [
+                16.483,
+                19.994,
+                7.243
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                14.389,
+                20.994,
+                7.036
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                13.636,
+                22.041,
+                6.708
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                14.019,
+                23.234,
+                6.265
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                15.367,
+                23.291,
+                6.174
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                14.604,
+                29.545,
+                6.02
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                13.792,
+                30.696,
+                5.582
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                15.852,
+                29.836,
+                6.749
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                13.633,
+                28.628,
+                6.885
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                12.398,
+                28.171,
+                6.303
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                11.809,
+                27.217,
+                7.302
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                12.767,
+                26.184,
+                7.534
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                11.515,
+                27.822,
+                8.669
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                10.103,
+                27.952,
+                8.891
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                12.267,
+                26.906,
+                9.63
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                12.426,
+                25.645,
+                8.799
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                13.609,
+                24.85,
+                9.205
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                13.442,
+                23.575,
+                9.656
+            ]
+        },
+        {
+            "atom_name": "O2",
+            "coordinates": [
+                12.311,
+                23.101,
+                9.802
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                14.551,
+                22.825,
+                9.913
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                15.815,
+                23.321,
+                9.777
+            ]
+        },
+        {
+            "atom_name": "O4",
+            "coordinates": [
+                16.755,
+                22.57,
+                10.029
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                15.972,
+                24.647,
+                9.362
+            ]
+        },
+        {
+            "atom_name": "C7",
+            "coordinates": [
+                17.345,
+                25.239,
+                9.234
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                14.844,
+                25.405,
+                9.048
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                9.513,
+                28.533,
+                10.26
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                8.145,
+                29.007,
+                9.998
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                10.455,
+                29.513,
+                10.841
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                9.395,
+                27.223,
+                11.153
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                8.576,
+                26.148,
+                10.664
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                8.655,
+                25.06,
+                11.678
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                10.003,
+                24.615,
+                11.764
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                8.272,
+                25.471,
+                13.087
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                7.199,
+                24.657,
+                13.553
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                9.586,
+                25.307,
+                13.86
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                10.19,
+                24.148,
+                13.089
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                11.66,
+                24.07,
+                13.205
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                12.257,
+                22.88,
+                13.486
+            ]
+        },
+        {
+            "atom_name": "O2",
+            "coordinates": [
+                11.583,
+                21.866,
+                13.691
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                13.62,
+                22.829,
+                13.497
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                14.402,
+                23.914,
+                13.225
+            ]
+        },
+        {
+            "atom_name": "O4",
+            "coordinates": [
+                15.625,
+                23.764,
+                13.252
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                13.774,
+                25.126,
+                12.933
+            ]
+        },
+        {
+            "atom_name": "C7",
+            "coordinates": [
+                14.563,
+                26.358,
+                12.612
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                12.385,
+                25.187,
+                12.926
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                6.594,
+                24.823,
+                15.016
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                5.169,
+                24.424,
+                14.987
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                6.87,
+                26.189,
+                15.511
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                7.409,
+                23.731,
+                15.839
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                7.331,
+                22.352,
+                15.433
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                8.1,
+                21.598,
+                16.461
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                9.478,
+                21.902,
+                16.263
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                7.766,
+                22.045,
+                17.879
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                7.036,
+                21.041,
+                18.611
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                9.123,
+                22.414,
+                18.469
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                10.107,
+                21.743,
+                17.523
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                11.328,
+                22.556,
+                17.331
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                12.534,
+                21.939,
+                17.329
+            ]
+        },
+        {
+            "atom_name": "O2",
+            "coordinates": [
+                12.56,
+                20.731,
+                17.579
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                13.639,
+                22.639,
+                17.035
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                13.56,
+                23.938,
+                16.739
+            ]
+        },
+        {
+            "atom_name": "N4",
+            "coordinates": [
+                14.685,
+                24.628,
+                16.404
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                12.338,
+                24.609,
+                16.736
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                11.193,
+                23.878,
+                17.035
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                6.509,
+                21.324,
+                20.099
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                5.387,
+                20.397,
+                20.396
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                6.235,
+                22.774,
+                20.306
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                7.767,
+                20.924,
+                20.993
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                8.216,
+                19.559,
+                21.073
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                9.422,
+                19.557,
+                21.977
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                10.493,
+                20.26,
+                21.319
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                9.267,
+                20.267,
+                23.325
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                10.088,
+                19.657,
+                24.293
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                9.751,
+                21.67,
+                22.99
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                10.988,
+                21.226,
+                22.256
+            ]
+        },
+        {
+            "atom_name": "N9",
+            "coordinates": [
+                11.599,
+                22.357,
+                21.543
+            ]
+        },
+        {
+            "atom_name": "C8",
+            "coordinates": [
+                11.037,
+                23.545,
+                21.159
+            ]
+        },
+        {
+            "atom_name": "N7",
+            "coordinates": [
+                11.921,
+                24.362,
+                20.566
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                13.072,
+                23.653,
+                20.58
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                14.37,
+                24.003,
+                20.102
+            ]
+        },
+        {
+            "atom_name": "O6",
+            "coordinates": [
+                14.747,
+                25.057,
+                19.585
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                15.268,
+                22.983,
+                20.308
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                15.023,
+                21.776,
+                20.891
+            ]
+        },
+        {
+            "atom_name": "N2",
+            "coordinates": [
+                16.066,
+                20.914,
+                21.038
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                13.815,
+                21.452,
+                21.35
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                12.902,
+                22.429,
+                21.151
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                9.477,
+                18.627,
+                25.34
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                8.767,
+                17.534,
+                24.627
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                8.67,
+                19.409,
+                26.312
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                10.807,
+                18.067,
+                26.034
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                11.688,
+                17.17,
+                25.31
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                13.115,
+                17.573,
+                25.593
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                13.284,
+                18.804,
+                24.893
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                13.441,
+                17.879,
+                27.059
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                14.341,
+                16.938,
+                27.677
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                13.928,
+                19.322,
+                27.025
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                14.312,
+                19.508,
+                25.568
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                14.144,
+                20.932,
+                25.17
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                15.199,
+                21.595,
+                24.63
+            ]
+        },
+        {
+            "atom_name": "O2",
+            "coordinates": [
+                16.257,
+                20.984,
+                24.504
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                15.067,
+                22.877,
+                24.257
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                13.898,
+                23.51,
+                24.404
+            ]
+        },
+        {
+            "atom_name": "N4",
+            "coordinates": [
+                13.771,
+                24.813,
+                24.018
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                12.795,
+                22.866,
+                24.967
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                12.935,
+                21.54,
+                25.359
+            ]
+        },
+        {
+            "atom_name": "P",
+            "coordinates": [
+                14.658,
+                17.064,
+                29.247
+            ]
+        },
+        {
+            "atom_name": "OP1",
+            "coordinates": [
+                14.863,
+                15.717,
+                29.825
+            ]
+        },
+        {
+            "atom_name": "OP2",
+            "coordinates": [
+                13.633,
+                17.912,
+                29.92
+            ]
+        },
+        {
+            "atom_name": "O5'",
+            "coordinates": [
+                16.033,
+                17.88,
+                29.284
+            ]
+        },
+        {
+            "atom_name": "C5'",
+            "coordinates": [
+                17.243,
+                17.32,
+                28.742
+            ]
+        },
+        {
+            "atom_name": "C4'",
+            "coordinates": [
+                18.208,
+                18.464,
+                28.758
+            ]
+        },
+        {
+            "atom_name": "O4'",
+            "coordinates": [
+                17.716,
+                19.428,
+                27.829
+            ]
+        },
+        {
+            "atom_name": "C3'",
+            "coordinates": [
+                18.23,
+                19.236,
+                30.058
+            ]
+        },
+        {
+            "atom_name": "O3'",
+            "coordinates": [
+                18.978,
+                18.583,
+                31.084
+            ]
+        },
+        {
+            "atom_name": "C2'",
+            "coordinates": [
+                18.885,
+                20.519,
+                29.578
+            ]
+        },
+        {
+            "atom_name": "C1'",
+            "coordinates": [
+                18.276,
+                20.693,
+                28.188
+            ]
+        },
+        {
+            "atom_name": "N9",
+            "coordinates": [
+                17.164,
+                21.659,
+                28.139
+            ]
+        },
+        {
+            "atom_name": "C8",
+            "coordinates": [
+                15.874,
+                21.536,
+                28.58
+            ]
+        },
+        {
+            "atom_name": "N7",
+            "coordinates": [
+                15.129,
+                22.614,
+                28.308
+            ]
+        },
+        {
+            "atom_name": "C5",
+            "coordinates": [
+                15.99,
+                23.436,
+                27.673
+            ]
+        },
+        {
+            "atom_name": "C6",
+            "coordinates": [
+                15.765,
+                24.729,
+                27.117
+            ]
+        },
+        {
+            "atom_name": "O6",
+            "coordinates": [
+                14.719,
+                25.373,
+                27.067
+            ]
+        },
+        {
+            "atom_name": "N1",
+            "coordinates": [
+                16.926,
+                25.257,
+                26.604
+            ]
+        },
+        {
+            "atom_name": "C2",
+            "coordinates": [
+                18.157,
+                24.666,
+                26.579
+            ]
+        },
+        {
+            "atom_name": "N2",
+            "coordinates": [
+                19.208,
+                25.386,
+                26.096
+            ]
+        },
+        {
+            "atom_name": "N3",
+            "coordinates": [
+                18.35,
+                23.438,
+                27.053
+            ]
+        },
+        {
+            "atom_name": "C4",
+            "coordinates": [
+                17.231,
+                22.893,
+                27.57
+            ]
+        }
+    ],
+    "residues": {
+        "1": "DC",
+        "2": "DG",
+        "3": "DC",
+        "4": "DG",
+        "5": "DA",
+        "6": "DA",
+        "7": "DT",
+        "8": "DT",
+        "9": "DC",
+        "10": "DG",
+        "11": "DC",
+        "12": "DG",
+        "13": "DC",
+        "14": "DG",
+        "15": "DC",
+        "16": "DG",
+        "17": "DA",
+        "18": "DA",
+        "19": "DT",
+        "20": "DT",
+        "21": "DC",
+        "22": "DG",
+        "23": "DC",
+        "24": "DG"
+    },
+    "accessibility": {
+        "0": 1.0,
+        "1": 0.8580769230769232,
+        "2": 0.6272727272727273,
+        "3": 0.5144736842105263,
+        "4": 0.5558333333333334,
+        "5": 0.5144736842105263,
+        "6": 0.42790697674418604,
+        "7": 0.3719148936170213,
+        "8": 0.3037735849056604,
+        "9": 0.22629032258064516,
+        "10": 0.21904761904761905,
+        "11": 0.19223880597014922,
+        "12": 0.2415,
+        "13": 0.22629032258064516,
+        "14": 0.3037735849056604,
+        "15": 0.33580000000000004,
+        "16": 0.5345945945945947,
+        "17": 0.713,
+        "18": 0.4953846153846153,
+        "19": 0.3719148936170213,
+        "20": 0.41295454545454546,
+        "21": 0.3037735849056604,
+        "22": 0.2494915254237288,
+        "23": 0.3247058823529412,
+        "24": 0.385,
+        "25": 0.2577586206896552,
+        "26": 0.19863636363636367,
+        "27": 0.12362500000000001,
+        "28": 0.1472,
+        "29": 0.115,
+        "30": 0.08433333333333333,
+        "31": 0.08087912087912089,
+        "32": 0.09517241379310346,
+        "33": 0.06778947368421051,
+        "34": 0.05867346938775512,
+        "35": 0.05867346938775512,
+        "36": 0.06468750000000002,
+        "37": 0.08433333333333333,
+        "38": 0.41295454545454546,
+        "39": 0.6272727272727273,
+        "40": 0.44357142857142856,
+        "41": 0.33580000000000004,
+        "42": 0.35937500000000006,
+        "43": 0.2663157894736842,
+        "44": 0.18602941176470592,
+        "45": 0.2843636363636364,
+        "46": 0.3719148936170213,
+        "47": 0.19863636363636367,
+        "48": 0.15753424657534246,
+        "49": 0.10678571428571428,
+        "50": 0.050099009900990116,
+        "51": 0.044660194174757285,
+        "52": 0.04201923076923079,
+        "53": 0.05290000000000002,
+        "54": 0.06468750000000002,
+        "55": 0.09147727272727273,
+        "56": 0.12810126582278483,
+        "57": 0.46,
+        "58": 0.6020588235294119,
+        "59": 0.41295454545454546,
+        "60": 0.3037735849056604,
+        "61": 0.3719148936170213,
+        "62": 0.3037735849056604,
+        "63": 0.19863636363636367,
+        "64": 0.33580000000000004,
+        "65": 0.3473469387755102,
+        "66": 0.2663157894736842,
+        "67": 0.19863636363636367,
+        "68": 0.11925925925925925,
+        "69": 0.11925925925925925,
+        "70": 0.0775,
+        "71": 0.05290000000000002,
+        "72": 0.04201923076923079,
+        "73": 0.044660194174757285,
+        "74": 0.027181818181818196,
+        "75": 0.022589285714285725,
+        "76": 0.013879310344827608,
+        "77": 0.050099009900990116,
+        "78": 0.06468750000000002,
+        "79": 0.41295454545454546,
+        "80": 0.6825806451612904,
+        "81": 0.44357142857142856,
+        "82": 0.385,
+        "83": 0.39866666666666667,
+        "84": 0.2843636363636364,
+        "85": 0.20523076923076927,
+        "86": 0.3247058823529412,
+        "87": 0.35937500000000006,
+        "88": 0.21203125,
+        "89": 0.18000000000000002,
+        "90": 0.11084337349397591,
+        "91": 0.115,
+        "92": 0.09147727272727273,
+        "93": 0.03942857142857142,
+        "94": 0.024864864864864857,
+        "95": 0.04735294117647059,
+        "96": 0.024864864864864857,
+        "97": 0.013879310344827608,
+        "98": 0.029541284403669744,
+        "99": 0.055757575757575756,
+        "100": 0.46,
+        "101": 0.6825806451612904,
+        "102": 0.5144736842105263,
+        "103": 0.33580000000000004,
+        "104": 0.35937500000000006,
+        "105": 0.22629032258064516,
+        "106": 0.16291666666666668,
+        "107": 0.29388888888888887,
+        "108": 0.33580000000000004,
+        "109": 0.23377049180327866,
+        "110": 0.17414285714285713,
+        "111": 0.09517241379310346,
+        "112": 0.12362500000000001,
+        "113": 0.08433333333333333,
+        "114": 0.044660194174757285,
+        "115": 0.031944444444444435,
+        "116": 0.08087912087912089,
+        "117": 0.0181578947368421,
+        "118": 0.003801652892561995,
+        "119": 0.009745762711864402,
+        "120": 0.03688679245283021,
+        "121": 0.42790697674418604,
+        "122": 0.6272727272727273,
+        "123": 0.47725,
+        "124": 0.3140384615384616,
+        "125": 0.27517857142857144,
+        "126": 0.17414285714285713,
+        "127": 0.13269230769230766,
+        "128": 0.2577586206896552,
+        "129": 0.3037735849056604,
+        "130": 0.21203125,
+        "131": 0.12362500000000001,
+        "132": 0.08087912087912089,
+        "133": 0.027181818181818196,
+        "134": 0.009745762711864402,
+        "135": 0.027181818181818196,
+        "136": 0.05867346938775512,
+        "137": 0.09147727272727273,
+        "138": 0.08433333333333333,
+        "139": 0.20523076923076927,
+        "140": 0.11925925925925925,
+        "141": 0.42790697674418604,
+        "142": 0.6272727272727273,
+        "143": 0.47725,
+        "144": 0.3247058823529412,
+        "145": 0.29388888888888887,
+        "146": 0.17414285714285713,
+        "147": 0.12810126582278483,
+        "148": 0.2843636363636364,
+        "149": 0.3247058823529412,
+        "150": 0.21203125,
+        "151": 0.115,
+        "152": 0.07419354838709678,
+        "153": 0.029541284403669744,
+        "154": 0.007731092436974814,
+        "155": 0.024864864864864857,
+        "156": 0.05290000000000002,
+        "157": 0.07419354838709678,
+        "158": 0.08087912087912089,
+        "159": 0.15229729729729732,
+        "160": 0.10678571428571428,
+        "161": 0.44357142857142856,
+        "162": 0.6540625,
+        "163": 0.44357142857142856,
+        "164": 0.3037735849056604,
+        "165": 0.2494915254237288,
+        "166": 0.16845070422535213,
+        "167": 0.08433333333333333,
+        "168": 0.23377049180327866,
+        "169": 0.2494915254237288,
+        "170": 0.21904761904761905,
+        "171": 0.115,
+        "172": 0.08087912087912089,
+        "173": 0.029541284403669744,
+        "174": 0.009745762711864402,
+        "175": 0.03439252336448598,
+        "176": 0.06468750000000002,
+        "177": 0.0775,
+        "178": 0.09147727272727273,
+        "179": 0.11925925925925925,
+        "180": 0.44357142857142856,
+        "181": 0.5345945945945947,
+        "182": 0.5558333333333334,
+        "183": 0.3473469387755102,
+        "184": 0.2577586206896552,
+        "185": 0.21203125,
+        "186": 0.16291666666666668,
+        "187": 0.3140384615384616,
+        "188": 0.2843636363636364,
+        "189": 0.2415,
+        "190": 0.15229729729729732,
+        "191": 0.11925925925925925,
+        "192": 0.14223684210526313,
+        "193": 0.11925925925925925,
+        "194": 0.0775,
+        "195": 0.06164948453608247,
+        "196": 0.0775,
+        "197": 0.04735294117647059,
+        "198": 0.0181578947368421,
+        "199": 0.0181578947368421,
+        "200": 0.03439252336448598,
+        "201": 0.07095744680851065,
+        "202": 0.42790697674418604,
+        "203": 0.5558333333333334,
+        "204": 0.4953846153846153,
+        "205": 0.35937500000000006,
+        "206": 0.385,
+        "207": 0.2843636363636364,
+        "208": 0.16845070422535213,
+        "209": 0.3247058823529412,
+        "210": 0.3719148936170213,
+        "211": 0.27517857142857144,
+        "212": 0.16845070422535213,
+        "213": 0.13269230769230766,
+        "214": 0.08786516853932584,
+        "215": 0.06778947368421051,
+        "216": 0.08087912087912089,
+        "217": 0.1028235294117647,
+        "218": 0.14223684210526313,
+        "219": 0.13269230769230766,
+        "220": 0.15753424657534246,
+        "221": 0.5782857142857143,
+        "222": 0.9016000000000001,
+        "223": 0.6272727272727273,
+        "224": 0.5558333333333334,
+        "225": 0.5345945945945947,
+        "226": 0.47725,
+        "227": 0.3719148936170213,
+        "228": 0.6272727272727273,
+        "229": 0.8580769230769232,
+        "230": 0.5345945945945947,
+        "231": 0.42790697674418604,
+        "232": 0.29388888888888887,
+        "233": 0.29388888888888887,
+        "234": 0.2494915254237288,
+        "235": 0.21904761904761905,
+        "236": 0.22629032258064516,
+        "237": 0.23377049180327866,
+        "238": 0.23377049180327866,
+        "239": 0.19863636363636367,
+        "240": 0.16291666666666668,
+        "241": 0.21203125,
+        "242": 0.2577586206896552,
+        "243": 0.8580769230769232,
+        "244": 0.8580769230769232,
+        "245": 0.6272727272727273,
+        "246": 0.47725,
+        "247": 0.5558333333333334,
+        "248": 0.5558333333333334,
+        "249": 0.39866666666666667,
+        "250": 0.385,
+        "251": 0.3247058823529412,
+        "252": 0.21904761904761905,
+        "253": 0.17414285714285713,
+        "254": 0.19863636363636367,
+        "255": 0.2843636363636364,
+        "256": 0.2843636363636364,
+        "257": 0.39866666666666667,
+        "258": 0.385,
+        "259": 0.5345945945945947,
+        "260": 0.713,
+        "261": 0.4953846153846153,
+        "262": 0.3719148936170213,
+        "263": 0.39866666666666667,
+        "264": 0.29388888888888887,
+        "265": 0.2494915254237288,
+        "266": 0.33580000000000004,
+        "267": 0.385,
+        "268": 0.2415,
+        "269": 0.21203125,
+        "270": 0.115,
+        "271": 0.14223684210526313,
+        "272": 0.1028235294117647,
+        "273": 0.07419354838709678,
+        "274": 0.07419354838709678,
+        "275": 0.09895348837209303,
+        "276": 0.07095744680851065,
+        "277": 0.06164948453608247,
+        "278": 0.05867346938775512,
+        "279": 0.06778947368421051,
+        "280": 0.08433333333333333,
+        "281": 0.44357142857142856,
+        "282": 0.6540625,
+        "283": 0.46,
+        "284": 0.33580000000000004,
+        "285": 0.33580000000000004,
+        "286": 0.2494915254237288,
+        "287": 0.18602941176470592,
+        "288": 0.27517857142857144,
+        "289": 0.3719148936170213,
+        "290": 0.18000000000000002,
+        "291": 0.14223684210526313,
+        "292": 0.115,
+        "293": 0.05290000000000002,
+        "294": 0.029541284403669744,
+        "295": 0.055757575757575756,
+        "296": 0.07419354838709678,
+        "297": 0.08786516853932584,
+        "298": 0.115,
+        "299": 0.13269230769230766,
+        "300": 0.42790697674418604,
+        "301": 0.6272727272727273,
+        "302": 0.385,
+        "303": 0.3140384615384616,
+        "304": 0.42790697674418604,
+        "305": 0.3140384615384616,
+        "306": 0.21203125,
+        "307": 0.3473469387755102,
+        "308": 0.385,
+        "309": 0.2494915254237288,
+        "310": 0.18000000000000002,
+        "311": 0.115,
+        "312": 0.1374025974025974,
+        "313": 0.08786516853932584,
+        "314": 0.044660194174757285,
+        "315": 0.03688679245283021,
+        "316": 0.044660194174757285,
+        "317": 0.016,
+        "318": 0.013879310344827608,
+        "319": 0.0,
+        "320": 0.024864864864864857,
+        "321": 0.055757575757575756,
+        "322": 0.41295454545454546,
+        "323": 0.6540625,
+        "324": 0.44357142857142856,
+        "325": 0.29388888888888887,
+        "326": 0.3247058823529412,
+        "327": 0.2415,
+        "328": 0.1472,
+        "329": 0.3140384615384616,
+        "330": 0.33580000000000004,
+        "331": 0.22629032258064516,
+        "332": 0.17414285714285713,
+        "333": 0.10678571428571428,
+        "334": 0.115,
+        "335": 0.08433333333333333,
+        "336": 0.03688679245283021,
+        "337": 0.02035398230088496,
+        "338": 0.044660194174757285,
+        "339": 0.009745762711864402,
+        "340": 0.001885245901639332,
+        "341": 0.016,
+        "342": 0.050099009900990116,
+        "343": 0.44357142857142856,
+        "344": 0.6540625,
+        "345": 0.5345945945945947,
+        "346": 0.29388888888888887,
+        "347": 0.2663157894736842,
+        "348": 0.15753424657534246,
+        "349": 0.12362500000000001,
+        "350": 0.2663157894736842,
+        "351": 0.2494915254237288,
+        "352": 0.2415,
+        "353": 0.13269230769230766,
+        "354": 0.08433333333333333,
+        "355": 0.09895348837209303,
+        "356": 0.08087912087912089,
+        "357": 0.03942857142857142,
+        "358": 0.027181818181818196,
+        "359": 0.07095744680851065,
+        "360": 0.016,
+        "361": 0.001885245901639332,
+        "362": 0.003801652892561995,
+        "363": 0.03688679245283021,
+        "364": 0.41295454545454546,
+        "365": 0.5782857142857143,
+        "366": 0.4953846153846153,
+        "367": 0.27517857142857144,
+        "368": 0.2663157894736842,
+        "369": 0.16845070422535213,
+        "370": 0.11925925925925925,
+        "371": 0.2577586206896552,
+        "372": 0.2843636363636364,
+        "373": 0.22629032258064516,
+        "374": 0.115,
+        "375": 0.0775,
+        "376": 0.03688679245283021,
+        "377": 0.009745762711864402,
+        "378": 0.024864864864864857,
+        "379": 0.055757575757575756,
+        "380": 0.08087912087912089,
+        "381": 0.08433333333333333,
+        "382": 0.16291666666666668,
+        "383": 0.11925925925925925,
+        "384": 0.46,
+        "385": 0.6272727272727273,
+        "386": 0.4953846153846153,
+        "387": 0.3247058823529412,
+        "388": 0.2843636363636364,
+        "389": 0.18000000000000002,
+        "390": 0.12810126582278483,
+        "391": 0.27517857142857144,
+        "392": 0.3247058823529412,
+        "393": 0.20523076923076927,
+        "394": 0.12362500000000001,
+        "395": 0.0775,
+        "396": 0.031944444444444435,
+        "397": 0.016,
+        "398": 0.027181818181818196,
+        "399": 0.04735294117647059,
+        "400": 0.06778947368421051,
+        "401": 0.07419354838709678,
+        "402": 0.12810126582278483,
+        "403": 0.10678571428571428,
+        "404": 0.42790697674418604,
+        "405": 0.6540625,
+        "406": 0.46,
+        "407": 0.3037735849056604,
+        "408": 0.2494915254237288,
+        "409": 0.19863636363636367,
+        "410": 0.12810126582278483,
+        "411": 0.3037735849056604,
+        "412": 0.39866666666666667,
+        "413": 0.19223880597014922,
+        "414": 0.1472,
+        "415": 0.09147727272727273,
+        "416": 0.04201923076923079,
+        "417": 0.031944444444444435,
+        "418": 0.03439252336448598,
+        "419": 0.05290000000000002,
+        "420": 0.06468750000000002,
+        "421": 0.0775,
+        "422": 0.10678571428571428,
+        "423": 0.5144736842105263,
+        "424": 0.6272727272727273,
+        "425": 0.4953846153846153,
+        "426": 0.3247058823529412,
+        "427": 0.35937500000000006,
+        "428": 0.2663157894736842,
+        "429": 0.21203125,
+        "430": 0.3247058823529412,
+        "431": 0.2843636363636364,
+        "432": 0.22629032258064516,
+        "433": 0.15229729729729732,
+        "434": 0.11925925925925925,
+        "435": 0.12362500000000001,
+        "436": 0.08786516853932584,
+        "437": 0.05867346938775512,
+        "438": 0.04735294117647059,
+        "439": 0.06468750000000002,
+        "440": 0.03942857142857142,
+        "441": 0.024864864864864857,
+        "442": 0.022589285714285725,
+        "443": 0.04735294117647059,
+        "444": 0.06778947368421051,
+        "445": 0.39866666666666667,
+        "446": 0.5782857142857143,
+        "447": 0.5144736842105263,
+        "448": 0.41295454545454546,
+        "449": 0.41295454545454546,
+        "450": 0.29388888888888887,
+        "451": 0.19863636363636367,
+        "452": 0.33580000000000004,
+        "453": 0.42790697674418604,
+        "454": 0.2663157894736842,
+        "455": 0.18000000000000002,
+        "456": 0.1374025974025974,
+        "457": 0.09517241379310346,
+        "458": 0.08087912087912089,
+        "459": 0.07095744680851065,
+        "460": 0.08087912087912089,
+        "461": 0.10678571428571428,
+        "462": 0.12362500000000001,
+        "463": 0.15229729729729732,
+        "464": 0.5782857142857143,
+        "465": 0.7803571428571429,
+        "466": 0.5345945945945947,
+        "467": 0.4953846153846153,
+        "468": 0.6272727272727273,
+        "469": 0.4953846153846153,
+        "470": 0.385,
+        "471": 0.6020588235294119,
+        "472": 0.9016000000000001,
+        "473": 0.4953846153846153,
+        "474": 0.385,
+        "475": 0.2843636363636364,
+        "476": 0.29388888888888887,
+        "477": 0.22629032258064516,
+        "478": 0.19863636363636367,
+        "479": 0.19223880597014922,
+        "480": 0.21904761904761905,
+        "481": 0.19223880597014922,
+        "482": 0.16845070422535213,
+        "483": 0.15229729729729732,
+        "484": 0.19223880597014922,
+        "485": 0.2415
+    }
+}
