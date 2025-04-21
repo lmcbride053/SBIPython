@@ -97,7 +97,7 @@ Opening the ".pml" file in PyMOL will automatically:
 Let's test this program on a protein: 3PTB (Bovine Trypsin + Trypsin Inhibitor) using the 3ptb.pdb file. This was previously done by the creators and the output files can be viewed in the examples folder, but right now let's pretend that you are running it as intended where the pdb file is in the data folder.
 
 To run the program:
-<pre>python data/3ptb.pdb 3PTB </pre>
+<pre> python main.py examples/pdb_examples/3ptb.pdb 3PTB </pre>
 
 Then the pipeline runs and the progress of each script is printed into the terminal:
 <pre>PDBparser.py:
@@ -130,7 +130,7 @@ Eps: 1.5, Detected Clusters: 12
 Eps: 2.0, Detected Clusters: 11
 Eps: 2.5, Detected Clusters: 10
 Detected 11 potential pockets.
-Filtered to 6 pockets after applying constraints.
+Filtered to 4 pockets after applying constraints.
 Pockets saved to ~/results/3PTB/pockets.pdb for visualization.
 Pockets saved to ~/results/3PTB/pockets.json
 PockDet.py completed. </pre>
@@ -147,17 +147,20 @@ Visualize.py completed. </pre>
 
 <pre>All results saved to: ~/results/3PTB/ </pre>
 
-So now we have the output files in the /results/3PTB/ folder:
+<pre> So now the output files are in the /results/3PTB/ folder:
     parsed.json         # Parsed atom and residue data
     surface.json        # Surface point features
     surface.png         # Molecular surface visualization
     pockets.json        # Detected binding pockets
     pockets.pdb         # (Optional) PDB-style pocket point cloud
     scored.json         # Ranked and scored pockets
-    pockets.pml         # PyMOL script to visualize pocket centers
+    pockets.pml         # PyMOL script to visualize pocket centers </pre>
 
-When viewing the results in PyMOL, we can see that there were 6 potential ligand binding sites identified
+For viewing the results in PyMol, the following command is runned: 
+<pre>pymol results/[FILE.pml] examples/pdb_examples/[PROTEIN.pdb]
+Example: pymol results/3PTB/pockets.pml examples/pdb_examples/3ptb.pdb </pre>
 
+When viewing the results in PyMOL, it can be seen that 4 potential ligand binding sites were identified.
 
 
 
