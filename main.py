@@ -68,7 +68,7 @@ def main():
     run_step("Scoring.py", [pockets_json, scored_json])
     run_step("Visualize.py", [scored_json, pymol_script])
 
-    print(f"🎉 All results saved to: {output_dir}/")
+    print(f" All results saved to: {output_dir}/")
 
 if __name__ == "__main__":
     main()
