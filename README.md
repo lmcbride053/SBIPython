@@ -2,12 +2,12 @@
 
 ## Ligand Binding Predictor using Geometry 
 
-This script, a Python-based pipeline was developed to visualize potential ligand binding sites on protein structures using a geometry-driven approach. The final visualization was rendered in PyMOL, providing an intuitive representation of the predicted pockets on the protein surface.
+This program visualize potential ligand binding sites on protein structures using a geometry-driven approach. It identifies and ranks potential ligand binding pockets directly from protein PDB files by leveraging purely geometric features, such as surface depth and curvature. The final visualization is rendered in PyMOL, providing an intuitive representation of the predicted pockets on the protein surface.
 
 ## Features
-* Geometry-Only Approach: Focused on surface depth and density-based clustering.
+* Geometry Approach: Focused on surface depth and density-based clustering.
 * Educational Focus: Lightweight dependencies and a clear, modular design.
-* Visualization-Ready: Output easily rendered in PyMOL for 3D exploration.
+* Visualization: Output easily rendered in PyMOL for 3D exploration.
 
 
 ## Requirements
@@ -22,7 +22,7 @@ Required Python packages:
 - sys   </pre>
 
 ## Installation
-To use the program, follow these steps:
+To use the program, follow these next steps:
 
 1. Clone this repository:
 <pre> git clone https://github.com/lmcbride053/SBIPython.git </pre>
@@ -31,7 +31,8 @@ To use the program, follow these steps:
 <pre> pip install biopython scipy scikit-learn matplotlib </pre>
 
 3. Run the program with the following command-line arguments:
-<pre>python MAINFINAL1.py PDB_FILE </pre>
+<pre>python main.py [PATH to PDB FILE] [PDB Code] 
+example: examples/pdb_examples/4q21.pdb 4Q21 </pre>
 
 
 # Output 
@@ -61,6 +62,10 @@ This script generates a geometry-based pipeline for predicting and visualizing l
 <pre>pymol
 load protein.pdb
 @output_pockets_pymol.pml </pre>
+
+
+# Example of the Analysis 
+In the following example, the adf.pdb file was used, which represents
 
 
 
