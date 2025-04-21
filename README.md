@@ -34,6 +34,7 @@ To use the program, follow these next steps:
 <pre>python main.py [PATH to PDB FILE] [PDB Code] 
 example: examples/pdb_examples/4q21.pdb 4Q21 </pre>
 
+# Program Structure
 
 # Output 
 The program will generate the following outputs:
