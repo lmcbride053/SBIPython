@@ -1,10 +1,16 @@
 # Protein Ligand Binding Predictor
 
-Final Project for SBI and Python Liam McBride and Regina Rodríguez Durant Reyes
+## Ligand Binding Predictor using Geometry 
 
 This script, a Python-based pipeline was developed to visualize potential ligand binding sites on protein structures using a geometry-driven approach. The final visualization was rendered in PyMOL, providing an intuitive representation of the predicted pockets on the protein surface.
 
-Requirements
+## Features
+* Geometry-Only Approach: Focused on surface depth and density-based clustering.
+* Educational Focus: Lightweight dependencies and a clear, modular design.
+* Visualization-Ready: Output easily rendered in PyMOL for 3D exploration.
+
+
+## Requirements
 <pre>Python 3.x 
 mkdssp version 3.0.0 
 Required Python packages:
@@ -15,7 +21,7 @@ Required Python packages:
 – json 
 - sys   </pre>
 
-Usage
+## Installation
 To use the program, follow these steps:
 
 1. Clone this repository:
@@ -27,6 +33,8 @@ To use the program, follow these steps:
 3. Run the program with the following command-line arguments:
 <pre>python MAINFINAL1.py PDB_FILE </pre>
 
+
+# Output 
 The program will generate the following outputs:
 
 * output_atoms.json: pre process file and extracts relevant atomic coordinates for surface analysis.
@@ -44,12 +52,12 @@ The program will generate the following outputs:
 
 This script generates a geometry-based pipeline for predicting and visualizing ligand binding sites on protein structures. By relying solely on structural features such as surface depth, curvature, and enclosure without the need for ligand-bound complexes, this method offers an interpretable, and visually rich approach for pocket detection. The integration with PyMOL enables intuitive 3D inspection, making the pipeline a valuable educational tool and a practical framework for early stage drug discovery, and a comparative structural analysis.
 
-Requirements
+## Requirements
 
 <pre>Required Program:
 - PyMol </pre>
 
-Usage
+## Usage
 <pre>pymol
 load protein.pdb
 @output_pockets_pymol.pml </pre>
