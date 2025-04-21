@@ -34,7 +34,7 @@ RESULTS_DIR = os.path.join(os.path.dirname(__file__), 'results')
 def run_step(script_name, args=[]):
     """Run a Python script in the 'scripts' folder with the provided arguments."""
     script_path = os.path.join(SCRIPT_DIR, script_name)
-    print(f"🔹 Running {script_name} with args: {' '.join(args)}")
+    print(f" Running {script_name} with args: {' '.join(args)}")
     result = subprocess.run(['python', script_path] + args)
     if result.returncode != 0:
         print(f" Error while running {script_name}")
