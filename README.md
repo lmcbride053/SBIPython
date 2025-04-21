@@ -161,6 +161,7 @@ For viewing the results in PyMol, the following command is runned:
 Example: pymol results/3PTB/pockets.pml examples/pdb_examples/3ptb.pdb </pre>
 
 When viewing the results in PyMOL, it can be seen that 4 potential ligand binding sites were identified.
+![Vista de PyMOL](examples/example_results/3PTB/3ptb.png)
 
 
 
