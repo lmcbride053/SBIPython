@@ -38,15 +38,15 @@ example: examples/pdb_examples/4q21.pdb 4Q21 </pre>
 # Output 
 The program will generate the following outputs:
 
-* output_atoms.json: pre process file and extracts relevant atomic coordinates for surface analysis.
+* parsed_json: pre process file and extracts relevant atomic coordinates for surface analysis.
 
-* output_pockets.pdb: Filters surface points by depth and clusters them using DBSCAN
+* surface_json and surface_plot: Filters surface points by depth and clusters them using DBSCAN
 
-* output_surface.json: Calculates point-wise geometric properties: depth from convex hull, curvature, and surface coordinates.
+* pockets_json: Calculates point-wise geometric properties: depth from convex hull, curvature, and surface coordinates.
 
-* output_pockets.json: Applies heuristics such as mean/max depth, cluster size, and compactness.
+* scored_json: Applies heuristics such as mean/max depth, cluster size, and compactness.
 
-* output_pockets_pymol.pml and output_surface.png: Converts the top-ranked pockets into PyMOL-compatible scripts using color-coded spheres.
+* pymol_script and pockets.pml: Converts the top-ranked pockets into PyMOL-compatible scripts using color-coded spheres.
 
 
 # Model Generator with PyMol
