@@ -27,7 +27,7 @@ To use the program, follow these steps:
 3. Run the program with the following command-line arguments:
 <pre>python MAINFINAL1.py PDB_FILE </pre>
 
-The program will generate the
+The program will generate the following outputs:
 
 * output_atoms.json: pre process file and extracts relevant atomic coordinates for surface analysis.
 
