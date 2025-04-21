@@ -86,7 +86,8 @@ load protein.pdb
 Let's test this program on a protein: 3PTB (Bovine Trypsin + Trypsin Inhibitor) using the 3ptb.pdb file. This was previously done by the creators and the output files can be viewed in the examples folder, but right now let's pretend that you are running it as intended where the pdb file is in the data folder.
 
 To run the program:
-<pre> python data/3ptb.pdb 3PTB <pre>
+<pre> python data/3ptb.pdb 3PTB 
+  <pre>
 
 Then the pipeline runs and the progress of each script is printed into the terminal:
 <pre> PDBparser.py:
