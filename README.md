@@ -96,7 +96,8 @@ Parsed 1629 atoms.
 Extracted 220 unique residues.
 Computed solvent accessibility for all atoms.
 Data saved to ~/3PTB/parsed.json
-PDBParser.py completed. </pre>
+PDBParser.py completed. 
+<pre>
 
 <pre> SurfAnal.py:
 Running SurfAnal.py with args: ~/results/3PTB/parsed.json ~/results/3PTB/surface.json ~/results/3PTB/surface.png
@@ -108,7 +109,8 @@ Estimated pocket depth.
 Computed hydrophobicity scores.
 Surface visualization saved to ~/results/3PTB/surface.png
 Surface data saved to ~/results/3PTB/surface.json
-SurfAnal.py completed. </pre>
+SurfAnal.py completed. 
+<pre>
 
 <pre> PockDet.py:
 Running PockDet.py with args: ~/results/3PTB/surface.json ~/results/3PTB/pockets.json
@@ -123,17 +125,20 @@ Detected 11 potential pockets.
 Filtered to 6 pockets after applying constraints.
 Pockets saved to ~/results/3PTB/pockets.pdb for visualization.
 Pockets saved to ~/results/3PTB/pockets.json
-PockDet.py completed. </pre>
+PockDet.py completed. 
+<pre>
   
 <pre> Scoring.py:
 Running Scoring.py with args: ~/results/3PTB/pockets.json ~/results/3PTB/scored.json
 Scored pockets written to ~/results/3PTB/scored.json
-Scoring.py completed. <pre>
+Scoring.py completed. 
+  <pre>
 
 <pre> Visualize.py:
 Running Visualize.py with args: ~/results/3PTB/scored.json ~/results/3PTB/pockets.pml
 [✔] PyMOL script saved to: ~/results/3PTB/pockets.pml
-Visualize.py completed. <pre>
+Visualize.py completed. 
+  <pre>
 
 <pre> All results saved to: ~/results/3PTB/ </pre>
 
